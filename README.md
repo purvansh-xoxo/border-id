@@ -1,2 +1,2 @@
 # border-id
-An opencv project to identify borders
+An opencv project to identify pixels with intensity greater than the threshold intensity.
